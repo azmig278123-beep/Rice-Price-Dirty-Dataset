@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "Region": "West",
+      "Rice_Type": "Jasmine",
+      "Demand_Tons": 500.4093008,
+      "Supply_Tons": 492.2489899,
+      "Rainfall_mm": 167.3060043,
+      "Temperature_C": 34.13124711,
+      "Import_Export": "import",
+      "Year": 2024,
+      "Month": 6,
+      "Day": 7
+    }
+  ]
+}
